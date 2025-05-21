@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Ikan Bakar Jimbaran",
+    "price": 72000,
+    "rating": 4.9,
+    "image": "https://cdn0-production-images-kly.akamaized.net/7FBKwsAVDbkdC_LHp5G8CVuOgAE=/1x37:1000x600/800x450/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/3481572/original/065934700_1623643195-shutterstock_1890344098.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Rawon Surabaya",
+    "price": 68000,
+    "rating": 4.7,
+    "image": "https://sanex.co.id/wp-content/uploads/2024/06/resep-rawon-daging-surabaya_43.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Tongseng Kambing",
+    "price": 80000,
+    "rating": 4.6,
+    "image": "https://i0.wp.com/resepkoki.id/wp-content/uploads/2017/02/Resep-Tongseng-kambing.jpg?fit=1920%2C1541&ssl=1"
+  },
+  {
+    "id": 4,
+    "name": "Cumi Goreng Tepung",
+    "price": 75000,
+    "rating": 4.4,
+    "image": "https://cdn1-production-images-kly.akamaized.net/FHxdoNLogQ42PCLz9iKHoLQuXmo=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/4235124/original/073699100_1669105829-fried-squid-calamari-rings.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Ayam Woku Manado",
+    "price": 69000,
+    "rating": 4.8,
+    "image": "https://images.tokopedia.net/img/KRMmCm/2022/8/10/bcc68cd1-44a9-4720-b492-94d5789e7574.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Sop Buntut",
+    "price": 85000,
+    "rating": 4.5,
+    "image": "https://asset.kompas.com/crops/2R7ah62bwFI0xyOnF-pIz6OsVEQ=/0x17:974x667/1200x800/data/photo/2021/07/15/60efaa05d301d.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Kepiting Saus Padang",
+    "price": 120000,
+    "rating": 4.9,
+    "image": "https://cdn0-production-images-kly.akamaized.net/AV-6PnSA9L6nNUqpi5EGoyyp0BE=/800x450/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/2355329/original/078016000_1536562953-resep-masakan-sehari-hari.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Nasi Liwet Solo",
+    "price": 53000,
+    "rating": 4.2,
+    "image": "https://asset.kompas.com/crops/3WHw0_nsUEpGJe_IJ-45Tc8t-hQ=/0x0:1000x667/1200x800/data/photo/2023/07/09/64aa0473728b0.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Kwetiau",
+    "price": 60000,
+    "rating": 4.3,
+    "image": "https://asset.kompas.com/crops/99NQ5tGKFMlIBmmYNCkUHQ8YbEw=/0x0:698x465/1200x800/data/photo/2020/12/07/5fce3837c4f6d.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Martabak Manis Keju",
+    "price": 45000,
+    "rating": 4.4,
+    "image": "https://asset.kompas.com/crops/PIjkD3Qjubuk_JPrh-CTDUZTDD4=/0x37:1000x704/1200x800/data/photo/2021/05/23/60a9bec457a03.jpeg"
+  },
+  {
+    "id": 11,
+    "name": "Ayam Penyet Sambal Ijo",
+    "price": 56000,
+    "rating": 4.6,
+    "image": "https://i.ytimg.com/vi/DMJQg3MeL8E/maxresdefault.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Pecel Lele",
+    "price": 38000,
+    "rating": 4.0,
+    "image": "https://asset.kompas.com/crops/vhkkKrYsJtPGU9jIpuht1703nLs=/0x0:1000x667/1200x800/data/photo/2021/03/21/60569b33a2b3d.jpeg"
+  }
+]
